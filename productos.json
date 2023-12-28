@@ -1,0 +1,29 @@
+[
+  {
+    "id": 2,
+    "title": "pantalon",
+    "description": "pantalon jean",
+    "price": 40000,
+    "thumbnail": "pantalon1.jpg",
+    "code": "cod2",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "remera",
+    "description": "remera talle 4",
+    "price": 3500,
+    "thumbnail": "renera1.jpg",
+    "code": "cod1",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "corbata",
+    "description": "negra",
+    "price": 10000,
+    "thumbnail": "corbata1.jpg",
+    "code": "cod3",
+    "stock": 7
+  }
+]
